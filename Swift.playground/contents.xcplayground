@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Swift'/>
+        <page name='Basico'/>
+        <page name='Constantes e Variaveis'/>
+        <page name='Comentarios'/>
+        <page name='Ponto e Virgula'/>
+        <page name='Inteiros'/>
+        <page name='Pontos Flutuantes'/>
+        <page name='Literais Numericos'/>
+        <page name='Conversao tipo Numerico'/>
+        <page name='Tipo Aliases'/>
+        <page name='Booleanos'/>
+        <page name='Tuplas'/>
+        <page name='Opcionais'/>
+        <page name='Manipulacao de erros'/>
+        <page name='Assercoes e pre-condicoes'/>
+        <page name='Continue os Estudos'/>
+    </pages>
+</playground>
